@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tesfalem Badeg</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61ysvZBb6VttnwyiGZiItzFkvub_bynaAEw&s.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFjZjU0Y2Nsb2szbzdweTAza2w4bXprcmF2emdhMm9hb3gweTZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.webp)" alt="coding">
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFjZjU0Y2Nsb2szbzdweTAza2w4bXprcmF2emdhMm9hb3gweTZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.webp" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tesfa234&label=Profile%20views&color=0e75b6&style=flat" alt="tesfa234" /> </p>
 
