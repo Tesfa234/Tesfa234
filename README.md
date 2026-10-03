@@ -22,6 +22,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tesfa234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📅 Yearly Contributions
+
+[![Tesfalem's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Tesfa234&theme=github-dark&hide_border=true)](https://github.com/Tesfa234)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Tesfa234&icon=10&color=0)](https://visitcount.itsvg.in)
 
